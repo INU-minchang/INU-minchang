@@ -8,4 +8,4 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">   ✏️ Ongoing Project  </h2> <br> 
-     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> [Autonomous Driving SW Competition](https://github.com/INU-minchang/Autonomous-Driving-SW-Competition.git)</li><li> 3D Lidar research<li>Creative Mobility Competition - Unmanned Vehicle   </div> 
+     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> <a href="https://github.com/INU-minchang/Autonomous-Driving-SW-Competition.git" style="color: #c9d1d9;">Autonomous Driving SW Competition</a><li> <a href="https://github.com/INU-minchang/Undergraduated-Research.git" style="color: #c9d1d9;">3D Lidar research<li>Creative Mobility Competition - Unmanned Vehicle</a>   </div> 
